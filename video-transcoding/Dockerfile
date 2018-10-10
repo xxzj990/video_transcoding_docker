@@ -1,6 +1,6 @@
 # ntodd/video-transcoding:0.18.0
 
-FROM ntodd/ruby-xenial:2.4.0
+FROM xxzj990/ruby-xenial:2.4.1
 LABEL maintainer="Nate Todd <nate@pixelauthorityllc.com>"
 
 ENV GEM_VERSION 0.20.0
