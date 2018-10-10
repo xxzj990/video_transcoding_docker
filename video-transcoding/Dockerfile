@@ -1,4 +1,4 @@
-# ntodd/video-transcoding:0.18.0
+# xxzj990/video-transcoding:0.20.0
 
 FROM xxzj990/ruby-xenial:2.4.1
 LABEL maintainer="Nate Todd <nate@pixelauthorityllc.com>"
